@@ -6,7 +6,7 @@ const objCelebrityAge = [
     "birth": "1942-06-10",
     "death": "",
     "image": "https://www.culturequizz.com/images/chantal-goya.webp",
-    "id_game": "001"
+    "id_game": "002"
   },
   {
     "id": "Q8298",
