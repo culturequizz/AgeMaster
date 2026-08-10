@@ -321,7 +321,7 @@ const objCelebrityAge = [
     "birth": "1989-11-09",
     "death": "",
     "image": "https://www.culturequizz.com/images/baptiste-giabiconi.jpg",
-    "id_game": "006"
+    "id_game": "005"
   },
   {
     "id": "Q178552",
