@@ -6,7 +6,7 @@ const objCelebrityAge = [
     "birth": "1942-06-10",
     "death": "",
     "image": "https://www.culturequizz.com/images/chantal-goya.webp",
-    "id_game": "002"
+    "id_game": "001"
   },
   {
     "id": "Q8298",
@@ -321,7 +321,7 @@ const objCelebrityAge = [
     "birth": "1989-11-09",
     "death": "",
     "image": "https://www.culturequizz.com/images/baptiste-giabiconi.jpg",
-    "id_game": "005"
+    "id_game": "006"
   },
   {
     "id": "Q178552",
@@ -3148,5 +3148,455 @@ const objCelebrityAge = [
     "death": "",
     "image": "https://www.culturequizz.com/images/alison-arngrim.jpg",
     "id_game": "050"
+  },
+  {
+    "id": "Q41548",
+    "name": "Antonio Banderas",
+    "activity": "Acteur espagnol",
+    "birth": "1960-08-10",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/antonio-banderas.jpg",
+    "id_game": "002"
+  },
+  {
+    "id": "Q106839925",
+    "name": "Khaby Lame",
+    "activity": "Tiktokeur sénégalo-italien",
+    "birth": "2000-03-09",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/khaby-lame.webp",
+    "id_game": "003"
+  },
+  {
+    "id": "Q176455",
+    "name": "Melanie Griffith",
+    "activity": "Actrice américaine",
+    "birth": "1957-08-09",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/melanie-griffith.jpg",
+    "id_game": "004"
+  },
+  {
+    "id": "Q34389",
+    "name": "Whitney Houston",
+    "activity": "Chanteuse",
+    "birth": "1963-08-09",
+    "death": "2012-02-11",
+    "image": "https://www.culturequizz.com/images/whitney-houston.jpg",
+    "id_game": "005"
+  },
+  {
+    "id": "Q17198340",
+    "name": "Shawn Mendes",
+    "activity": "Auteur-compositeur-interprète canadien",
+    "birth": "1998-08-08",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/shawn-mendes.jpg",
+    "id_game": "006"
+  },
+  {
+    "id": "Q3081533",
+    "name": "Francis Lalanne",
+    "activity": "Auteur-compositeur-interprète",
+    "birth": "1958-08-08",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/francis-lalanne.webp",
+    "id_game": "007"
+  },
+  {
+    "id": "Q42930",
+    "name": "Dustin Hoffman",
+    "activity": "Acteur",
+    "birth": "1937-08-08",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/dustin-hoffman.jpg",
+    "id_game": "008"
+  },
+  {
+    "id": "Q55597463",
+    "name": "Joyca",
+    "activity": "Vidéaste web et musicien français",
+    "birth": "1995-08-07",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/joyca.jpg",
+    "id_game": "009"
+  },
+  {
+    "id": "Q2961080",
+    "name": "Charly Oleg",
+    "activity": "Pianiste et animateur de télévision français",
+    "birth": "1931-08-07",
+    "death": "2025-09-08",
+    "image": "https://www.culturequizz.com/images/charly-oleg.jpg",
+    "id_game": "010"
+  },
+  {
+    "id": "Q19845",
+    "name": "Geri Halliwell",
+    "activity": "Chanteuse britannique de variétés",
+    "birth": "1972-08-06",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/geri-halliwell.jpg",
+    "id_game": "011"
+  },
+  {
+    "id": "Q274689",
+    "name": "Élisabeth Guigou",
+    "activity": "Femme politique française",
+    "birth": "1946-08-06",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/elisabeth-guigou.jpg",
+    "id_game": "012"
+  },
+  {
+    "id": "Q214289",
+    "name": "Michelle Yeoh",
+    "activity": "Actrice et productrice malaisienne",
+    "birth": "1962-08-06",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/michelle-yeoh.jpg",
+    "id_game": "013"
+  },
+  {
+    "id": "Q5603",
+    "name": "Andy Warhol",
+    "activity": "Artiste américain",
+    "birth": "1928-08-06",
+    "death": "1987-02-22",
+    "image": "https://www.culturequizz.com/images/andy-warhol.jpg",
+    "id_game": "014"
+  },
+  {
+    "id": "Q454911",
+    "name": "Sofia Essaïdi",
+    "activity": "Actrice et chanteuse franco-marocaine",
+    "birth": "1984-08-06",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/sofia-essaidi.jpg",
+    "id_game": "015"
+  },
+  {
+    "id": "Q7226",
+    "name": "Jeanne d'Arc",
+    "activity": "Héroïne de l'histoire de france",
+    "birth": "1412-01-06",
+    "death": "1431-06-08",
+    "image": "https://www.culturequizz.com/images/jeanne-darc.jpg",
+    "id_game": "016"
+  },
+  {
+    "id": "Q235214",
+    "name": "Jane Kaczmarek",
+    "activity": "Actrice américaine",
+    "birth": "1955-12-21",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/jane-kaczmarek.jpg",
+    "id_game": "017"
+  },
+  {
+    "id": "Q160009",
+    "name": "Pink",
+    "activity": "Chanteuse",
+    "birth": "1979-09-08",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/pink.jpg",
+    "id_game": "019"
+  },
+  {
+    "id": "Q17350457",
+    "name": "Pierre-Emmanuel Barré",
+    "activity": "Acteur et humoriste français",
+    "birth": "1984-01-01",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/pierre-emmanuel-barre.webp",
+    "id_game": "020"
+  },
+  {
+    "id": "Q1939",
+    "name": "Nicolas Anelka",
+    "activity": "Footballeur et entraîneur français",
+    "birth": "1979-03-14",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/nicolas-anelka.webp",
+    "id_game": "021"
+  },
+  {
+    "id": "Q236835",
+    "name": "Clara Morgane",
+    "activity": "Animatrice de télévision",
+    "birth": "1981-01-25",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/clara-morgane.jpg",
+    "id_game": "022"
+  },
+  {
+    "id": "Q21621919",
+    "name": "Post Malone",
+    "activity": "Musicien américain",
+    "birth": "1995-07-04",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/post-malone.jpg",
+    "id_game": "023"
+  },
+  {
+    "id": "Q3501677",
+    "name": "Stéphane Collaro",
+    "activity": "Journaliste sportif français",
+    "birth": "1943-05-20",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/stephane-collaro.webp",
+    "id_game": "024"
+  },
+  {
+    "id": "Q216221",
+    "name": "Steve Carell",
+    "activity": "Acteur américain",
+    "birth": "1962-08-16",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/steve-carell.jpg",
+    "id_game": "025"
+  },
+  {
+    "id": "Q711645",
+    "name": "Jean-Michel Larqué",
+    "activity": "Footballeur",
+    "birth": "1947-09-08",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/jean-michel-larque.jpg",
+    "id_game": "026"
+  },
+  {
+    "id": "Q10993",
+    "name": "Tiger Woods",
+    "activity": "Golfeur américain",
+    "birth": "1975-12-30",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/tiger-woods.jpg",
+    "id_game": "027"
+  },
+  {
+    "id": "Q14752155",
+    "name": "Pedro Pascal",
+    "activity": "Acteur chilo-américain",
+    "birth": "1975-04-02",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/pedro-pascal.jpg",
+    "id_game": "028"
+  },
+  {
+    "id": "Q318991",
+    "name": "Gad Elmaleh",
+    "activity": "Comédien et humoriste maroco-canadien",
+    "birth": "1971-04-19",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/gad-elmaleh.webp",
+    "id_game": "029"
+  },
+  {
+    "id": "Q85518537",
+    "name": "Carlos Alcaraz",
+    "activity": "Joueur de tennis espagnol",
+    "birth": "2003-05-05",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/carlos-alcaraz.jpg",
+    "id_game": "030"
+  },
+  {
+    "id": "Q36153",
+    "name": "Beyoncé",
+    "activity": "Chanteuse et rappeuse américaine",
+    "birth": "1981-09-04",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/beyonce.jpg",
+    "id_game": "001"
+  },
+  {
+    "id": "Q778451",
+    "name": "José Garcia",
+    "activity": "Acteur français",
+    "birth": "1966-03-17",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/jose-garcia.webp",
+    "id_game": "033"
+  },
+  {
+    "id": "Q52395487",
+    "name": "Javier Milei",
+    "activity": "Économiste et homme d'état argentin",
+    "birth": "1970-10-22",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/javier-milei.jpg",
+    "id_game": "034"
+  },
+  {
+    "id": "Q6294",
+    "name": "Hillary Clinton",
+    "activity": "Femme politique américaine",
+    "birth": "1947-10-26",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/hillary-clinton.jpg",
+    "id_game": "035"
+  },
+  {
+    "id": "Q16645075",
+    "name": "Jarry",
+    "activity": "Humoriste",
+    "birth": "1977-08-05",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/jarry.jpg",
+    "id_game": "036"
+  },
+  {
+    "id": "Q1716",
+    "name": "Renaud",
+    "activity": "Chanteur français",
+    "birth": "1952-05-11",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/renaud.webp",
+    "id_game": "038"
+  },
+  {
+    "id": "Q18613182",
+    "name": "Vianney",
+    "activity": "Chanteur et acteur français",
+    "birth": "1991-02-13",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/vianney.jpg",
+    "id_game": "039"
+  },
+  {
+    "id": "Q207709",
+    "name": "Roland Garros",
+    "activity": "Aviateur réunionnais",
+    "birth": "1888-11-06",
+    "death": "1918-10-05",
+    "image": "https://www.culturequizz.com/images/roland-garros.jpg",
+    "id_game": "040"
+  },
+  {
+    "id": "Q9671",
+    "name": "Michael Schumacher",
+    "activity": "Pilote automobile allemand",
+    "birth": "1969-01-03",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/michael-schumacher.jpg",
+    "id_game": "041"
+  },
+  {
+    "id": "Q183967",
+    "name": "David Trezeguet",
+    "activity": "Footballeur français",
+    "birth": "1977-10-15",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/david-trezeguet.webp",
+    "id_game": "042"
+  },
+  {
+    "id": "Q170587",
+    "name": "Tommy Lee Jones",
+    "activity": "Acteur américain",
+    "birth": "1946-09-15",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/tommy-lee-jones.jpg",
+    "id_game": "043"
+  },
+  {
+    "id": "Q35332",
+    "name": "Brad Pitt",
+    "activity": "Acteur américain",
+    "birth": "1963-12-18",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/brad-pitt.jpg",
+    "id_game": "044"
+  },
+  {
+    "id": "Q8322448",
+    "name": "Christine Bravo",
+    "activity": "Animatrice de télévision française",
+    "birth": "1956-05-13",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/christine-bravo.jpg",
+    "id_game": "045"
+  },
+  {
+    "id": "Q1280549",
+    "name": "Delphine Wespiser",
+    "activity": "Mannequin française",
+    "birth": "1992-01-03",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/delphine-wespiser.jpg",
+    "id_game": "046"
+  },
+  {
+    "id": "Q20089795",
+    "name": "Norbert Tarayre",
+    "activity": "Cuisinier et animateur français",
+    "birth": "1980-09-22",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/norbert-tarayre.jpg",
+    "id_game": "047"
+  },
+  {
+    "id": "Q104027",
+    "name": "Kirk Douglas",
+    "activity": "Acteur",
+    "birth": "1916-12-09",
+    "death": "2020-02-05",
+    "image": "https://www.culturequizz.com/images/kirk-douglas.jpg",
+    "id_game": "049"
+  },
+  {
+    "id": "Q5284",
+    "name": "Bill Gates",
+    "activity": "Informaticien et homme d'affaires américain",
+    "birth": "1955-10-28",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/bill-gates.jpg",
+    "id_game": "037"
+  },
+  {
+    "id": "Q240885",
+    "name": "Sylvie Vartan",
+    "activity": "Chanteuse française",
+    "birth": "1944-08-15",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/sylvie-vartan.jpg",
+    "id_game": "032"
+  },
+  {
+    "id": "Q517",
+    "name": "Napoleon",
+    "activity": "Militaire",
+    "birth": "1769-08-15",
+    "death": "1821-05-05",
+    "image": "https://www.culturequizz.com/images/napoleon-ier.jpg",
+    "id_game": "018"
+  },
+  {
+    "id": "Q3193297",
+    "name": "Karine Le Marchand",
+    "activity": "Animatrice de télévision française",
+    "birth": "1968-08-16",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/karine-le-marchand.jpg",
+    "id_game": "050"
+  },
+  {
+    "id": "Q45901",
+    "name": "Thierry Henry",
+    "activity": "Footballeur",
+    "birth": "1977-08-17",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/thierry-henry.jpg",
+    "id_game": "048"
+  },
+  {
+    "id": "Q186329",
+    "name": "Mika",
+    "activity": "Chanteur libano-américano-britannique",
+    "birth": "1983-08-18",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/mika.jpg",
+    "id_game": "031"
   }
 ];
