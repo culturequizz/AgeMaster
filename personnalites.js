@@ -121,7 +121,7 @@ const objCelebrityAge = [
     "name": "Philippe Bouvard",
     "activity": "Journaliste français",
     "birth": "1929-12-06",
-    "death": "",
+    "death": "2026-08-24",
     "image": "https://www.culturequizz.com/images/agemaster/philippe-bouvard.jpg",
     "id_game": "002"
   },
@@ -2504,7 +2504,7 @@ const objCelebrityAge = [
   {
     "id": "Q3369786",
     "name": "Patrick Puydebat",
-    "activity": "Acteur",
+    "activity": "Acteur français",
     "birth": "1971-07-12",
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/patrick-puydebat.webp",
