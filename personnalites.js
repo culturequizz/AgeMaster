@@ -72,6 +72,15 @@ const objCelebrityAge = [
     "id_game": "001"
   },
   {
+    "id": "Q312661",
+    "name": "Jamel Debbouze",
+    "activity": "Acteur et producteur franco-marocain",
+    "birth": "1975-06-18",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/jamel-debbouze.webp",
+    "id_game": "002"
+  },
+  {
     "id": "Q106057",
     "name": "Yves Montand",
     "activity": "Chanteur et acteur",
@@ -87,15 +96,6 @@ const objCelebrityAge = [
     "birth": "1969-07-05",
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/marc-olivier-fogiel.webp",
-    "id_game": "002"
-  },
-  {
-    "id": "Q312661",
-    "name": "Jamel Debbouze",
-    "activity": "Acteur et producteur franco-marocain",
-    "birth": "1975-06-18",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/jamel-debbouze.webp",
     "id_game": "002"
   },
   {
@@ -144,6 +144,15 @@ const objCelebrityAge = [
     "id_game": "002"
   },
   {
+    "id": "Q23760",
+    "name": "Rowan Atkinson",
+    "activity": "Acteur de Mr Bean",
+    "birth": "1955-01-06",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/rowan-atkinson.jpg",
+    "id_game": "003"
+  },
+  {
     "id": "Q284995",
     "name": "La Fouine",
     "activity": "Rappeur",
@@ -159,15 +168,6 @@ const objCelebrityAge = [
     "birth": "1992-07-10",
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/clara-luciani.webp",
-    "id_game": "003"
-  },
-  {
-    "id": "Q23760",
-    "name": "Rowan Atkinson",
-    "activity": "Acteur",
-    "birth": "1955-01-06",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/rowan-atkinson.jpg",
     "id_game": "003"
   },
   {
@@ -288,21 +288,21 @@ const objCelebrityAge = [
     "id_game": "004"
   },
   {
-    "id": "Q573147",
-    "name": "Anthony Delon",
-    "activity": "Acteur français",
-    "birth": "1964-09-30",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/anthony-delon.jpg",
-    "id_game": "005"
-  },
-  {
     "id": "Q3490899",
     "name": "Sophie Davant",
     "activity": "Animatrice",
     "birth": "1963-05-19",
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/sophie-davant.webp",
+    "id_game": "005"
+  },
+  {
+    "id": "Q573147",
+    "name": "Anthony Delon",
+    "activity": "Acteur français",
+    "birth": "1964-09-30",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/anthony-delon.jpg",
     "id_game": "005"
   },
   {
@@ -432,6 +432,15 @@ const objCelebrityAge = [
     "id_game": "006"
   },
   {
+    "id": "Q615",
+    "name": "Lionel Messi",
+    "activity": "Footballeur argentin et espagnol",
+    "birth": "1987-06-24",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/lionel-messi.jpg",
+    "id_game": "007"
+  },
+  {
     "id": "Q44176",
     "name": "Hulk Hogan",
     "activity": "Catcheur et acteur américain",
@@ -486,15 +495,6 @@ const objCelebrityAge = [
     "id_game": "007"
   },
   {
-    "id": "Q615",
-    "name": "Lionel Messi",
-    "activity": "Footballeur argentin et espagnol",
-    "birth": "1987-06-24",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/lionel-messi.jpg",
-    "id_game": "007"
-  },
-  {
     "id": "Q3081533",
     "name": "Francis Lalanne",
     "activity": "Auteur-compositeur-interprète",
@@ -502,6 +502,15 @@ const objCelebrityAge = [
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/francis-lalanne.webp",
     "id_game": "007"
+  },
+  {
+    "id": "Q40026",
+    "name": "Sylvester Stallone",
+    "activity": "Acteur",
+    "birth": "1946-07-06",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/sylvester-stallone.jpg",
+    "id_game": "008"
   },
   {
     "id": "Q133861680",
@@ -528,15 +537,6 @@ const objCelebrityAge = [
     "birth": "1927-10-14",
     "death": "2017-05-23",
     "image": "https://www.culturequizz.com/images/agemaster/roger-moore.webp",
-    "id_game": "008"
-  },
-  {
-    "id": "Q40026",
-    "name": "Sylvester Stallone",
-    "activity": "Acteur",
-    "birth": "1946-07-06",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/sylvester-stallone.jpg",
     "id_game": "008"
   },
   {
@@ -648,6 +648,15 @@ const objCelebrityAge = [
     "id_game": "009"
   },
   {
+    "id": "Q40523",
+    "name": "Julia Roberts",
+    "activity": "Actrice",
+    "birth": "1967-10-28",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/julia-roberts.jpg",
+    "id_game": "010"
+  },
+  {
     "id": "Q1918",
     "name": "Franck Ribéry",
     "activity": "Footballeur français",
@@ -693,15 +702,6 @@ const objCelebrityAge = [
     "id_game": "010"
   },
   {
-    "id": "Q40523",
-    "name": "Julia Roberts",
-    "activity": "Actrice",
-    "birth": "1967-10-28",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/julia-roberts.jpg",
-    "id_game": "010"
-  },
-  {
     "id": "Q4235",
     "name": "Miley Cyrus",
     "activity": "Chanteuse et actrice américaine",
@@ -720,6 +720,15 @@ const objCelebrityAge = [
     "id_game": "010"
   },
   {
+    "id": "Q10520",
+    "name": "David Beckham",
+    "activity": "Footballeur anglais",
+    "birth": "1975-05-02",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/david-beckham.webp",
+    "id_game": "011"
+  },
+  {
     "id": "Q66241169",
     "name": "Jude Bellingham",
     "activity": "Footballeur anglais",
@@ -735,15 +744,6 @@ const objCelebrityAge = [
     "birth": "2004-02-19",
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/millie-bobby-brown.jpg",
-    "id_game": "011"
-  },
-  {
-    "id": "Q10520",
-    "name": "David Beckham",
-    "activity": "Footballeur anglais",
-    "birth": "1975-05-02",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/david-beckham.webp",
     "id_game": "011"
   },
   {
@@ -792,21 +792,21 @@ const objCelebrityAge = [
     "id_game": "011"
   },
   {
-    "id": "Q59215",
-    "name": "Robert Redford",
-    "activity": "Acteur",
-    "birth": "1936-08-18",
-    "death": "2025-09-16",
-    "image": "https://www.culturequizz.com/images/agemaster/robert-redford.jpg",
-    "id_game": "012"
-  },
-  {
     "id": "Q26876",
     "name": "Taylor Swift",
     "activity": "Autrice-compositrice-interprète américaine",
     "birth": "1989-12-13",
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/taylor-swift.jpg",
+    "id_game": "012"
+  },
+  {
+    "id": "Q59215",
+    "name": "Robert Redford",
+    "activity": "Acteur",
+    "birth": "1936-08-18",
+    "death": "2025-09-16",
+    "image": "https://www.culturequizz.com/images/agemaster/robert-redford.jpg",
     "id_game": "012"
   },
   {
@@ -864,6 +864,15 @@ const objCelebrityAge = [
     "id_game": "012"
   },
   {
+    "id": "Q3314618",
+    "name": "Mimie Mathy",
+    "activity": "Comédienne française",
+    "birth": "1957-07-08",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/mimie-mathy.webp",
+    "id_game": "013"
+  },
+  {
     "id": "Q2896024",
     "name": "Benjamin Castaldi",
     "activity": "Animateur français",
@@ -918,15 +927,6 @@ const objCelebrityAge = [
     "id_game": "013"
   },
   {
-    "id": "Q3314618",
-    "name": "Mimie Mathy",
-    "activity": "Comédienne française",
-    "birth": "1957-07-08",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/mimie-mathy.webp",
-    "id_game": "013"
-  },
-  {
     "id": "Q214289",
     "name": "Michelle Yeoh",
     "activity": "Actrice et productrice malaisienne",
@@ -934,6 +934,15 @@ const objCelebrityAge = [
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/michelle-yeoh.jpg",
     "id_game": "013"
+  },
+  {
+    "id": "Q215012",
+    "name": "Stéphanie de Monaco",
+    "activity": "Membre de la famille princière monégasque",
+    "birth": "1965-02-01",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/stephanie-de-monaco.jpg",
+    "id_game": "014"
   },
   {
     "id": "Q289614",
@@ -981,15 +990,6 @@ const objCelebrityAge = [
     "id_game": "014"
   },
   {
-    "id": "Q215012",
-    "name": "Stéphanie de Monaco",
-    "activity": "Membre de la famille princière monégasque",
-    "birth": "1965-02-01",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/stephanie-de-monaco.jpg",
-    "id_game": "014"
-  },
-  {
     "id": "Q65932",
     "name": "Anthony Hopkins",
     "activity": "Acteur",
@@ -1006,6 +1006,15 @@ const objCelebrityAge = [
     "death": "1987-02-22",
     "image": "https://www.culturequizz.com/images/agemaster/andy-warhol.jpg",
     "id_game": "014"
+  },
+  {
+    "id": "Q230846",
+    "name": "Adriana Karembeu",
+    "activity": "Mannequin",
+    "birth": "1971-09-17",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/adriana-karembeu.jpg",
+    "id_game": "015"
   },
   {
     "id": "Q1203",
@@ -1032,15 +1041,6 @@ const objCelebrityAge = [
     "birth": "1957-12-10",
     "death": "2012-09-03",
     "image": "https://www.culturequizz.com/images/agemaster/michael-clarke-duncan.jpg",
-    "id_game": "015"
-  },
-  {
-    "id": "Q230846",
-    "name": "Adriana Karembeu",
-    "activity": "Mannequin",
-    "birth": "1971-09-17",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/adriana-karembeu.jpg",
     "id_game": "015"
   },
   {
@@ -1224,21 +1224,21 @@ const objCelebrityAge = [
     "id_game": "017"
   },
   {
-    "id": "Q3154952",
-    "name": "Isabelle Ithurburu",
-    "activity": "Animatrice française de télévision",
-    "birth": "1983-02-24",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/isabelle-ithurburu.jpg",
-    "id_game": "018"
-  },
-  {
     "id": "Q3190745",
     "name": "Jérémy Ferrari",
     "activity": "Humoriste et acteur français",
     "birth": "1985-04-06",
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/jeremy-ferrari.webp",
+    "id_game": "018"
+  },
+  {
+    "id": "Q3154952",
+    "name": "Isabelle Ithurburu",
+    "activity": "Animatrice française de télévision",
+    "birth": "1983-02-24",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/isabelle-ithurburu.jpg",
     "id_game": "018"
   },
   {
@@ -1296,6 +1296,15 @@ const objCelebrityAge = [
     "id_game": "018"
   },
   {
+    "id": "Q600051",
+    "name": "François Cluzet",
+    "activity": "Acteur français",
+    "birth": "1955-09-21",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/francois-cluzet.webp",
+    "id_game": "019"
+  },
+  {
     "id": "Q2632",
     "name": "Ringo Starr",
     "activity": "Membre des beatles",
@@ -1320,15 +1329,6 @@ const objCelebrityAge = [
     "birth": "1982-06-10",
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/issa-doumbia.webp",
-    "id_game": "019"
-  },
-  {
-    "id": "Q600051",
-    "name": "François Cluzet",
-    "activity": "Acteur français",
-    "birth": "1955-09-21",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/francois-cluzet.webp",
     "id_game": "019"
   },
   {
@@ -1366,6 +1366,15 @@ const objCelebrityAge = [
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/pink.jpg",
     "id_game": "019"
+  },
+  {
+    "id": "Q3200883",
+    "name": "Kyan Khojandi",
+    "activity": "Comédien français",
+    "birth": "1982-08-29",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/kyan-khojandi.jpg",
+    "id_game": "020"
   },
   {
     "id": "Q15869",
@@ -1422,15 +1431,6 @@ const objCelebrityAge = [
     "id_game": "020"
   },
   {
-    "id": "Q3200883",
-    "name": "Kyan Khojandi",
-    "activity": "Comédien français",
-    "birth": "1982-08-29",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/kyan-khojandi.jpg",
-    "id_game": "020"
-  },
-  {
     "id": "Q17350457",
     "name": "Pierre-Emmanuel Barré",
     "activity": "Acteur et humoriste français",
@@ -1438,6 +1438,15 @@ const objCelebrityAge = [
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/pierre-emmanuel-barre.webp",
     "id_game": "020"
+  },
+  {
+    "id": "Q56434717",
+    "name": "Greta Thunberg",
+    "activity": "Militante écologiste suédoise",
+    "birth": "2003-01-03",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/greta-thunberg.jpg",
+    "id_game": "021"
   },
   {
     "id": "Q3157406",
@@ -1464,15 +1473,6 @@ const objCelebrityAge = [
     "birth": "1977-02-20",
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/fred-testot.jpg",
-    "id_game": "021"
-  },
-  {
-    "id": "Q56434717",
-    "name": "Greta Thunberg",
-    "activity": "Militante écologiste suédoise",
-    "birth": "2003-01-03",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/greta-thunberg.jpg",
     "id_game": "021"
   },
   {
@@ -1512,6 +1512,15 @@ const objCelebrityAge = [
     "id_game": "021"
   },
   {
+    "id": "Q83325",
+    "name": "Pamela Anderson",
+    "activity": "Actrice et mannequin américano-canadienne",
+    "birth": "1967-07-01",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/pamela-anderson.webp",
+    "id_game": "022"
+  },
+  {
     "id": "Q882",
     "name": "Charlie Chaplin",
     "activity": "Acteur",
@@ -1536,15 +1545,6 @@ const objCelebrityAge = [
     "birth": "1971-06-05",
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/mark-wahlberg.webp",
-    "id_game": "022"
-  },
-  {
-    "id": "Q83325",
-    "name": "Pamela Anderson",
-    "activity": "Actrice et mannequin américano-canadienne",
-    "birth": "1967-07-01",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/pamela-anderson.webp",
     "id_game": "022"
   },
   {
@@ -1656,6 +1656,15 @@ const objCelebrityAge = [
     "id_game": "023"
   },
   {
+    "id": "Q81328",
+    "name": "Harrison Ford",
+    "activity": "Acteur américain",
+    "birth": "1942-07-13",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/harrison-ford.webp",
+    "id_game": "024"
+  },
+  {
     "id": "Q43252",
     "name": "Sophia Loren",
     "activity": "Actrice italienne",
@@ -1680,15 +1689,6 @@ const objCelebrityAge = [
     "birth": "1933-03-14",
     "death": "2024-11-03",
     "image": "https://www.culturequizz.com/images/agemaster/quincy-jones.webp",
-    "id_game": "024"
-  },
-  {
-    "id": "Q81328",
-    "name": "Harrison Ford",
-    "activity": "Acteur américain",
-    "birth": "1942-07-13",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/harrison-ford.webp",
     "id_game": "024"
   },
   {
@@ -1728,21 +1728,21 @@ const objCelebrityAge = [
     "id_game": "024"
   },
   {
-    "id": "Q99670930",
-    "name": "Bradley Barcola",
-    "activity": "Footballeur français et togolais",
-    "birth": "2002-09-02",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/bradley-barcola.jpg",
-    "id_game": "025"
-  },
-  {
     "id": "Q152316",
     "name": "Harry de Sussex",
     "activity": "Famille royale britannique",
     "birth": "1984-09-15",
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/harry-de-sussex.jpg",
+    "id_game": "025"
+  },
+  {
+    "id": "Q99670930",
+    "name": "Bradley Barcola",
+    "activity": "Footballeur français et togolais",
+    "birth": "2002-09-02",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/bradley-barcola.jpg",
     "id_game": "025"
   },
   {
@@ -2088,6 +2088,15 @@ const objCelebrityAge = [
     "id_game": "029"
   },
   {
+    "id": "Q192655",
+    "name": "Lara Fabian",
+    "activity": "Chanteuse",
+    "birth": "1970-01-09",
+    "death": "",
+    "image": "https://www.culturequizz.com/images/agemaster/lara-fabian.jpg",
+    "id_game": "030"
+  },
+  {
     "id": "Q3384248",
     "name": "Pierre Bénichou",
     "activity": "Journaliste",
@@ -2121,15 +2130,6 @@ const objCelebrityAge = [
     "birth": "1951-08-19",
     "death": "",
     "image": "https://www.culturequizz.com/images/agemaster/jean-luc-melenchon.jpg",
-    "id_game": "030"
-  },
-  {
-    "id": "Q192655",
-    "name": "Lara Fabian",
-    "activity": "Chanteuse",
-    "birth": "1970-01-09",
-    "death": "",
-    "image": "https://www.culturequizz.com/images/agemaster/lara-fabian.jpg",
     "id_game": "030"
   },
   {
