@@ -2677,7 +2677,7 @@ const objCelebrityAge = [
     "name": "Patrick Stewart",
     "activity": "Acteur britannique",
     "birth": "1940-07-13",
-    "death": "",
+    "death": "2026-10-28",
     "image": "https://www.culturequizz.com/images/agemaster/patrick-stewart.webp",
     "id_game": "038"
   },
